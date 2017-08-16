@@ -2,7 +2,7 @@
 
 *Miss me?*
 
-_Because you upgraded to v6 and realized... "I've made a huge mistake"_
+redux-form-v5 can be used along side another version of redux form.  If you've implemented v6+ and want to use v5.
 
 ---
 [<img src="http://npm.packagequality.com/badge/redux-form.png" align="right"/>](http://packagequality.com/#?package=redux-form)
@@ -24,16 +24,11 @@ _Because you upgraded to v6 and realized... "I've made a huge mistake"_
 
 ## Documentation
 
-* [Getting Started](http://redux-form.com/#/getting-started)
-* [Examples](http://redux-form.com/#/examples)
-* [API](http://redux-form.com/#/api)
-* [FAQ](http://redux-form.com/#/faq)
-* [Release Notes](https://github.com/erikras/redux-form/releases)
-* [Tools](https://github.com/erikras/redux-form/blob/master/tools.md)
+* [Getting Started](http://redux-form.com/5.3.1/#/getting-started)
+* [Examples](http://redux-form.com/5.3.1/#/examples)
+* [API](http://redux-form.com/5.3.1/#/api)
+* [FAQ](http://redux-form.com/5.3.1/#/faq)
 
-### Versions of Documentation
-
-* [4.2.0](http://redux-form.com/4.2.0/)
 * [5.0.0](http://redux-form.com/5.0.0/)
 * [5.0.1](http://redux-form.com/5.0.1/)
 * [5.1.0](http://redux-form.com/5.1.0/)
@@ -45,24 +40,6 @@ _Because you upgraded to v6 and realized... "I've made a huge mistake"_
 * [5.2.5](http://redux-form.com/5.2.5/)
 * [5.3.0](http://redux-form.com/5.3.0/)
 * [5.3.1](http://redux-form.com/5.3.1/)
-
----
-
-* [6.0.0-alpha.4](http://redux-form.com/6.0.0-alpha.4/)
-* [6.0.0-alpha.5](http://redux-form.com/6.0.0-alpha.5/)
-* [6.0.0-alpha.6](http://redux-form.com/6.0.0-alpha.6/)
-* [6.0.0-alpha.7](http://redux-form.com/6.0.0-alpha.7/)
-* [6.0.0-alpha.8](http://redux-form.com/6.0.0-alpha.8/)
-* [6.0.0-alpha.10](http://redux-form.com/6.0.0-alpha.10/)
-* [6.0.0-alpha.11](http://redux-form.com/6.0.0-alpha.11/)
-* [6.0.0-alpha.13](http://redux-form.com/6.0.0-alpha.13/)
-* [6.0.0-alpha.14](http://redux-form.com/6.0.0-alpha.14/)
-* [6.0.0-alpha.15](http://redux-form.com/6.0.0-alpha.15/)
-* [6.0.0-rc.1](http://redux-form.com/6.0.0-rc.1/)
-* [6.0.0-rc.2](http://redux-form.com/6.0.0-rc.2/)
-* [6.0.0-rc.3](http://redux-form.com/6.0.0-rc.3/)
-* [6.0.0-rc.4](http://redux-form.com/6.0.0-rc.4/)
-* [6.0.0-rc.5](http://redux-form.com/6.0.0-rc.5/)
 
 ## Community
 [Adding A Robust Form Validation To React Redux Apps - Blog](https://medium.com/@rajaraodv/adding-a-robust-form-validation-to-react-redux-apps-616ca240c124#.1iyuelj2e)
