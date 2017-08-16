@@ -20,8 +20,8 @@ const createRestorableSpy = (fn) => {
 describe('createReduxForm', () => {
   const reduxForm = createReduxForm(false, React, connect);
   const makeStore = (initialState = {}) => createStore(combineReducers({
-    form: reducer
-  }), { form: initialState });
+    reduxFormV5: reducer
+  }), { reduxFormV5: initialState });
 
   it('should return a decorator function', () => {
     expect(reduxForm).toBeA('function');
