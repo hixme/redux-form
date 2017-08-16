@@ -57,7 +57,7 @@ const createReduxFormConnector =
         touchOnChange: PropTypes.bool
       };
       ReduxFormConnector.defaultProps = {
-        reduxMountPoint: 'form',
+        reduxMountPoint: 'reduxFormV5',
         getFormState: (state, reduxMountPoint) => state[reduxMountPoint]
       };
       return ReduxFormConnector;
