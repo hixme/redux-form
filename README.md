@@ -2,8 +2,6 @@
 
 *Miss me?*
 
-redux-form-v5 can be used along side another version of redux form.  If you've implemented v6+ and want to use v5.
-
 ---
 [<img src="http://npm.packagequality.com/badge/redux-form.png" align="right"/>](http://packagequality.com/#?package=redux-form)
 
