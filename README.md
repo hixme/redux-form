@@ -1,4 +1,9 @@
-# redux-form
+# redux-form-v5
+
+*Miss me?*
+
+_Because you upgraded to v6 and realized... "I've made a huge mistake"_
+
 ---
 [<img src="http://npm.packagequality.com/badge/redux-form.png" align="right"/>](http://packagequality.com/#?package=redux-form)
 
